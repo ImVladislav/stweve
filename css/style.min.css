@@ -560,6 +560,7 @@ video::-webkit-media-controls {
   height: auto;
   object-fit: cover;
   object-position: top center;
+  width: 300vh;
 }
 .hero__block {
   display: grid;
